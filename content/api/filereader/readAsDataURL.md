@@ -21,4 +21,4 @@ function readAsDataURL(blob) {
 
 ## See also
 
-- https://developer.mozilla.org/en-US/docs/Web/API/FileReader/readAsDataURL
+- <https://developer.mozilla.org/en-US/docs/Web/API/FileReader/readAsDataURL>

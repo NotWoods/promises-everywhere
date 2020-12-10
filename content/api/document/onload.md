@@ -22,4 +22,4 @@ function loaded() {
 
 ## See also
 
-- https://developer.mozilla.org/en-US/docs/Web/Events/DOMContentLoaded
+- <https://developer.mozilla.org/en-US/docs/Web/Events/DOMContentLoaded>

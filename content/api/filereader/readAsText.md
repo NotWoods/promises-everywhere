@@ -18,5 +18,5 @@ function readAsText(blob) {
 
 ## See also
 
-- https://developer.mozilla.org/en-US/docs/Web/API/FileReader/readAsText
-- https://developer.mozilla.org/en-US/docs/Web/API/Response
+- <https://developer.mozilla.org/en-US/docs/Web/API/FileReader/readAsText>
+- <https://developer.mozilla.org/en-US/docs/Web/API/Response>

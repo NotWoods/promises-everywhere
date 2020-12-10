@@ -18,5 +18,5 @@ function send(url) {
 
 ## See also
 
-- https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest
-- https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/fetch
+- <https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest>
+- <https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/fetch>

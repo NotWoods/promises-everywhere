@@ -19,6 +19,6 @@ function paste() {
 
 ## See also
 
-- https://developer.mozilla.org/en-US/docs/Web/API/Document/execCommand
-- https://developer.mozilla.org/en-US/docs/Web/API/Clipboard/writeText
-- https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Interact_with_the_clipboard
+- <https://developer.mozilla.org/en-US/docs/Web/API/Document/execCommand>
+- <https://developer.mozilla.org/en-US/docs/Web/API/Clipboard/writeText>
+- <https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Interact_with_the_clipboard>

@@ -18,5 +18,5 @@ function readAsArrayBuffer(blob) {
 
 ## See also
 
-- https://developer.mozilla.org/en-US/docs/Web/API/FileReader/readAsArrayBuffer
-- https://developer.mozilla.org/en-US/docs/Web/API/Response
+- <https://developer.mozilla.org/en-US/docs/Web/API/FileReader/readAsArrayBuffer>
+- <https://developer.mozilla.org/en-US/docs/Web/API/Response>
